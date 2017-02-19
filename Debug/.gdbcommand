@@ -1,0 +1,4 @@
+set sysroot /Users/jordan/tizen-studio/tools/smart-build-interface/../../platforms/tizen-3.0/wearable/rootstraps/wearable-3.0-emulator.core
+set debug-file-directory /Users/jordan/tizen-studio/tools/smart-build-interface/../../platforms/tizen-3.0/wearable/rootstraps/wearable-3.0-emulator.core/usr/lib/debug
+set solib-search-path /Users/jordan/workspace/Metronomo/Debug
+dir /Users/jordan/tizen-studio/tools/smart-build-interface/../../platforms/tizen-3.0/wearable/rootstraps/wearable-3.0-emulator.core/usr/src/debug

@@ -1,0 +1,6 @@
+http://tizen.org/privilege/haptic
+http://tizen.org/privilege/haptic
+http://tizen.org/privilege/display
+
+http://tizen.org/privilege/display
+http://tizen.org/privilege/display
